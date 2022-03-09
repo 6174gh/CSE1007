@@ -11,6 +11,3 @@ octal = 07
 hex = 0x7
 binary = 0b011
 int = 25_25_623
-characters can be entered in octal/hex 
-a = \141\ - octal
-a = \u0061\ - hex

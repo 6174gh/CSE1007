@@ -12,6 +12,6 @@ public class Main{
 		// if sub-regions of string are equal
 		boolean ans = false;
 		ans = s1.regionMatches(true,0,s2,6,5);
-		System.out.println(ans);
+		//System.out.println(ans);
     }
 }
